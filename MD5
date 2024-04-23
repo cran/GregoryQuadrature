@@ -1,0 +1,13 @@
+e658c80ed014fb027272cb00ce4f29f7 *DESCRIPTION
+6e9a5ee4bd301b57f00595edad275c2b *NAMESPACE
+4640f821ec265db949d7aa8864b84f7c *NEWS.md
+84cb8808831eed9c0c7a2e695f490a0c *R/gregory.R
+9579b34ebdb9d4cf0ed074805cd152e3 *README.md
+784fa1f52ae375de8b4d4a5db557a641 *build/vignette.rds
+748c3fe32c937aab48b794f946755d17 *inst/doc/GregoryQuadrature.R
+3f1164d85216bbb740f14021c475529b *inst/doc/GregoryQuadrature.Rmd
+cedb5ca4f10aa566894d0b4107bd0557 *inst/doc/GregoryQuadrature.html
+ffd1457e5b93427d0d5bc8b84dd724e9 *man/Gregory_weights.Rd
+50ce942468db941bf3746b0df8c15a52 *tests/testthat.R
+8235c5b9265956fac4c40229f28ed7c9 *tests/testthat/test-gregory.R
+3f1164d85216bbb740f14021c475529b *vignettes/GregoryQuadrature.Rmd
